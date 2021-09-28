@@ -11,12 +11,12 @@ __UC San Diego *Warren College*__
 > UCSD SPIS 2019
 
 ### Programming Language Experience
-'''
+```
 Python
 Java
 C/C++
 R
-'''
+```
 
 ### Prospective Areas of Study
 blah

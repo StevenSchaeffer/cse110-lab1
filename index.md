@@ -8,7 +8,7 @@ __3rd Year Computer Science Major__
 __UC San Diego *Warren College*__
 
 ### Section Links
-[TODO](# TODO)
+[TODO](#TODO)
 
 ### GitHub Profile Link
 [sschaeff2023 GitHub](https://github.com/sschaeff2023)
@@ -39,5 +39,5 @@ R
 ### README
 [README for this lab](README.md)
 
-# TODO
+#TODO
 - [x] Finish lab1

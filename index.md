@@ -7,13 +7,11 @@ __3rd Year Computer Science Major__
 \
 __UC San Diego *Warren College*__
 
-### Programming Experience
-> Prior Experience
->
->> blah
-> Languages
->
->> blah
+### Prior Programming Experience
+> blah
+
+### Programming Language Experience
+blah
 
 ### Prospective Areas of Study
 blah

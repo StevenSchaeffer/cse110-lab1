@@ -7,6 +7,15 @@ __3rd Year Computer Science Major__
 \
 __UC San Diego *Warren College*__
 
+### Section Links
+[GitHub Profile Link](### GitHub Profile Link)
+[Prior Programming Experience](### Prior Programming Experience)
+[Programming Language Experience](### Programming Language Experience)
+[Prospective Areas of Study](### Prospective Areas of Study)
+[Other Interests](### Other Interests)
+[README](### README)
+[TODO](### TODO)
+
 ### GitHub Profile Link
 [sschaeff2023 GitHub](https://github.com/sschaeff2023)
 

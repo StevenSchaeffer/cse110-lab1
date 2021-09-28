@@ -7,6 +7,9 @@ __3rd Year Computer Science Major__
 \
 __UC San Diego *Warren College*__
 
+### GitHub Profile Link
+[sschaeff2023 GitHub](https://github.com/sschaeff2023)
+
 ### Prior Programming Experience
 > UCSD SPIS 2019
 

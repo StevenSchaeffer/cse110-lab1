@@ -22,7 +22,16 @@ R
 ```
 
 ### Prospective Areas of Study
-blah
+- A.I.
+- Image Processing
+- Computer Graphics
+- Web Development
+
+### Other Interests
+1. PC Building
+2. Beach/hiking/outdoors
+3. Video games
+4. Learning new concepts in CS
 
 ### README
 [README for this lab](README.md)

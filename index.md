@@ -35,3 +35,6 @@ R
 
 ### README
 [README for this lab](README.md)
+
+### TODO
+- [x] Finish lab1

@@ -8,10 +8,15 @@ __3rd Year Computer Science Major__
 __UC San Diego *Warren College*__
 
 ### Prior Programming Experience
-> blah
+> UCSD SPIS 2019
 
 ### Programming Language Experience
-blah
+'''
+Python
+Java
+C/C++
+R
+'''
 
 ### Prospective Areas of Study
 blah

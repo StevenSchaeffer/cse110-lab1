@@ -3,7 +3,9 @@
 ### About Me
 ![Steven Schaeffer's Profile Picture](./images/pfp.jpg)
 \
-blah
+3rd Year Computer Science Major
+\
+*Warren College*
 
 ### Programming Experience
 blah

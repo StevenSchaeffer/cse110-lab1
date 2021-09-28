@@ -25,4 +25,4 @@ R
 blah
 
 ### README
-blah
+[README for this lab](README.md)

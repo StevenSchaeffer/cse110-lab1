@@ -43,10 +43,5 @@ R
 
 
 
-
-
-
-
-
 # TODO
 - [x] Finish lab1

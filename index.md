@@ -1,14 +1,14 @@
 ## Steven Schaeffer's User Page
 
 ### About Me
-![Steven Schaeffer's Profile Picture](./images/pfp.jpg)
+![Steven Schaeffer's Profile Picture](images/pfp.jpg)
 \
 __3rd Year Computer Science Major__
 \
 __UC San Diego *Warren College*__
 
-### Section Links
-[TODO](#TODO)
+### Section Links edited
+[TODO](index.md/#TODO)
 
 ### GitHub Profile Link
 [sschaeff2023 GitHub](https://github.com/sschaeff2023)
@@ -37,11 +37,7 @@ R
 4. Learning new concepts in CS
 
 ### README
-[README for this lab](README.md)  
-  
-  
-blah
+[README for this lab](README.md)
 
-
-# TODO
+### TODO
 - [x] Finish lab1

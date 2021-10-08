@@ -37,19 +37,16 @@ R
 4. Learning new concepts in CS
 
 ### README
-[README for this lab](README.md)
+[README for this lab](README.md)  
+  
+  
 
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
-\
+
+
+
+
+
+
 
 # TODO
 - [x] Finish lab1

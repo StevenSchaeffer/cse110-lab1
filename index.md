@@ -7,8 +7,8 @@ __3rd Year Computer Science Major__
 \
 __UC San Diego *Warren College*__
 
-### Section Links edited
-[TODO](index.md/#TODO)
+### Section Links
+[TODO](#todo)
 
 ### GitHub Profile Link
 [sschaeff2023 GitHub](https://github.com/sschaeff2023)

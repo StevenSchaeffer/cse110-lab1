@@ -1,4 +1,3 @@
-<title></title>
 ## Steven Schaeffer's User Page
 
 ### About Me

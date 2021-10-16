@@ -1,5 +1,4 @@
-## Steven Schaeffer's  
-User Page
+## Steven Schaeffer's  User Page
 
 ### About Me
 ![Steven Schaeffer's Profile Picture](images/pfp.jpg)

@@ -1,4 +1,4 @@
-## Steven Schaeffer's\
+## Steven Schaeffer's  
 User Page
 
 ### About Me

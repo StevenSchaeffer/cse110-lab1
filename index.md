@@ -1,4 +1,4 @@
-<title>aboutme</title><br/><br/>
+<title>aboutme</title><br/>
 ## Steven Schaeffer | sschaeff2023
 
 ### About Me

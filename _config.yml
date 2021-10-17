@@ -1,5 +1,5 @@
 theme: jekyll-theme-tactile
 title: Steven Schaeffer’s <br>User Page<br>
 description: October 2021
-section#downloads.clearfix:
+clearfix:
     site.github.public: true

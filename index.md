@@ -1,5 +1,4 @@
 <title>aboutme</title>
-<section id="downloads" class="clearfix">https://en.wikipedia.org/wiki/Main_Page</section>
 ## Steven Schaeffer | sschaeff2023
 ---
 

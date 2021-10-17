@@ -1,5 +1,5 @@
 <title></title>
-## About Me
+## Steven Schaeffer | sschaeff2023
 
 ### About Me
 ![Steven Schaeffer's Profile Picture](images/pfp.jpg)

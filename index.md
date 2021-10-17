@@ -3,10 +3,8 @@
 \
 
 ### About Me
-![Steven Schaeffer's Profile Picture](images/pfp.jpg)
-\
-__3rd Year Computer Science Major__
-\
+![Steven Schaeffer's Profile Picture](images/pfp.jpg)\
+__3rd Year Computer Science Major__\
 __UC San Diego *Warren College*__
 
 ### Section Links

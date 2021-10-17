@@ -1,5 +1,5 @@
-## Steven Schaeffer | sschaeff2023
 <title>aboutme</title>
+## Steven Schaeffer | sschaeff2023
 
 ### About Me
 ![Steven Schaeffer's Profile Picture](images/pfp.jpg)\

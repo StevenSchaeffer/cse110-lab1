@@ -1,8 +1,8 @@
 <title>aboutme</title>
-## About Me <br/>sschaeff2023
+## Steven Schaeffer | sschaeff2023
 <br/>
 
-### Steven Schaeffer
+### About Me
 ![Steven Schaeffer's Profile Picture](images/pfp.jpg)\
 __3rd Year Computer Science Major__\
 __UC San Diego *Warren College*__

@@ -1,3 +1,5 @@
 theme: jekyll-theme-tactile
+getConfig().set("section#downloads.clearfix", null);
+saveConfig();
 title: Steven Schaeffer’s <br>User Page<br>
 description: October 2021

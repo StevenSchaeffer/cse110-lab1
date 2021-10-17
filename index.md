@@ -1,6 +1,6 @@
 <title>aboutme</title>
 ## Steven Schaeffer | sschaeff2023
-does this work?
+
 
 ### About Me
 ![Steven Schaeffer's Profile Picture](images/pfp.jpg)\

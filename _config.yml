@@ -1,6 +1,7 @@
 theme: jekyll-theme-tactile
 title: Steven Schaeffer’s <br>User Page<br>
 description: October 2021
-site:
-    github:
-        public: true
+clearfix:
+    site:
+        github:
+            public: true
